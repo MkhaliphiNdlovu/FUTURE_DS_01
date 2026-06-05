@@ -134,17 +134,23 @@ Examined the relationship between sales and profit.
 ```text
 FUTURE_DS_01/
 │
-├── sales_dataset.csv
+├── data/
+│   └── sales_dataset.csv
 │
+├── src/
+│   └── business_sales.py
 │
 ├── images/
-│   ├── sales_trend.png
-│   ├── top_products.png
-│   ├── category_analysis.png
-│   └── regional_analysis.png
+│   ├── monthly_sales_revenue.png
+│   ├── top_10_products.png
+│   ├── profit_by_category.png
+│   ├── profitable_products.png
+│   ├── sales_by_region.png
+│   └── sales_vs_profit.png
 │
 ├── README.md
-│
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
