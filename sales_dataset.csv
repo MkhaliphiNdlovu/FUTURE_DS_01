@@ -1,0 +1,301 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ORD-1000,2023-04-13,2023-04-15,Aisha Patel,Consumer,USA,San Diego,IL,West,Office Supplies,Binders,A4 Binder,645.43,4,0.1,61.84
+ORD-1001,2024-03-11,2024-03-17,John Smith,Consumer,USA,Phoenix,TX,East,Office Supplies,Binders,A4 Binder,175.74,5,0.1,28.38
+ORD-1002,2023-09-28,2023-10-01,James Taylor,Consumer,USA,Phoenix,NY,West,Furniture,Tables,Desk Table,1111.87,5,0.15,408.85
+ORD-1003,2023-04-17,2023-04-22,Michael Brown,Consumer,USA,Los Angeles,TX,Central,Technology,Machines,Printer,1564.78,7,0.2,561.06
+ORD-1004,2023-03-13,2023-03-14,Emma Wilson,Corporate,USA,New York,TX,East,Furniture,Bookcases,Small Bookcase,1948.75,5,0.1,648.2
+ORD-1005,2024-12-01,2024-12-05,James Taylor,Consumer,USA,San Diego,TX,East,Office Supplies,Storage,Storage Box,708.32,2,0.15,150.74
+ORD-1006,2023-01-21,2023-01-22,John Smith,Home Office,USA,Phoenix,CA,East,Office Supplies,Storage,File Cabinet,1675.56,1,0.2,507.84
+ORD-1007,2024-09-06,2024-09-10,Michael Brown,Corporate,USA,Los Angeles,NY,South,Furniture,Bookcases,Small Bookcase,857.92,8,0.05,32.59
+ORD-1008,2023-05-02,2023-05-03,Michael Brown,Home Office,USA,Chicago,IL,West,Office Supplies,Storage,Storage Box,1784.87,2,0.2,192.76
+ORD-1009,2024-04-11,2024-04-17,Olivia Davis,Corporate,USA,Phoenix,CA,West,Office Supplies,Binders,A4 Binder,474.12,8,0.2,10.61
+ORD-1010,2023-08-03,2023-08-08,John Smith,Corporate,USA,Chicago,NY,West,Technology,Accessories,Headphones,1627.47,7,0.0,252.47
+ORD-1011,2023-11-27,2023-12-01,Aisha Patel,Home Office,USA,Los Angeles,AZ,Central,Technology,Machines,Printer,706.93,3,0.2,18.94
+ORD-1012,2024-04-03,2024-04-06,Aisha Patel,Home Office,USA,Los Angeles,IL,West,Technology,Copiers,Mini Copier,1413.12,3,0.1,-67.53
+ORD-1013,2023-03-29,2023-03-30,Aisha Patel,Consumer,USA,Phoenix,TX,Central,Office Supplies,Storage,File Cabinet,816.35,4,0.15,212.51
+ORD-1014,2024-01-08,2024-01-09,David Kim,Home Office,USA,New York,NY,West,Office Supplies,Art,Markers,1647.35,7,0.0,343.68
+ORD-1015,2023-04-10,2023-04-14,Michael Brown,Home Office,USA,Houston,AZ,South,Technology,Phones,Samsung Galaxy,482.64,9,0.15,-13.79
+ORD-1016,2024-10-25,2024-10-28,Sarah Lee,Corporate,USA,Phoenix,IL,Central,Furniture,Chairs,Comfort Seat,1738.51,6,0.2,657.04
+ORD-1017,2023-05-11,2023-05-14,Sarah Lee,Home Office,USA,New York,IL,West,Technology,Accessories,Keyboard,34.19,5,0.2,13.53
+ORD-1018,2024-10-23,2024-10-29,Emma Wilson,Corporate,USA,Chicago,CA,East,Technology,Accessories,Mouse,156.86,3,0.1,59.85
+ORD-1019,2023-11-05,2023-11-11,Aisha Patel,Home Office,USA,Chicago,CA,East,Furniture,Chairs,Ergo Chair X,1050.96,9,0.0,228.53
+ORD-1020,2023-12-10,2023-12-16,David Kim,Home Office,USA,Houston,NY,West,Furniture,Chairs,Comfort Seat,914.54,5,0.1,311.58
+ORD-1021,2024-05-06,2024-05-12,Aisha Patel,Home Office,USA,Phoenix,AZ,South,Technology,Accessories,Keyboard,100.44,8,0.15,-13.65
+ORD-1022,2024-02-18,2024-02-24,Olivia Davis,Consumer,USA,Houston,IL,South,Office Supplies,Paper,Premium Paper,677.96,4,0.05,22.35
+ORD-1023,2024-01-21,2024-01-27,Aisha Patel,Consumer,USA,Chicago,NY,West,Furniture,Tables,Wooden Table,466.5,5,0.0,-20.54
+ORD-1024,2023-07-11,2023-07-16,Sarah Lee,Home Office,USA,New York,NY,Central,Furniture,Chairs,Office Chair A,911.95,1,0.0,-13.03
+ORD-1025,2023-10-04,2023-10-07,Olivia Davis,Consumer,USA,Los Angeles,AZ,West,Furniture,Bookcases,Large Bookcase,1629.45,3,0.2,593.64
+ORD-1026,2023-06-10,2023-06-16,Emma Wilson,Corporate,USA,New York,NY,South,Technology,Copiers,Xerox Copier,839.11,5,0.0,42.75
+ORD-1027,2024-04-04,2024-04-07,James Taylor,Home Office,USA,San Diego,NY,East,Technology,Copiers,Xerox Copier,1866.13,2,0.1,-322.6
+ORD-1028,2023-11-10,2023-11-13,David Kim,Corporate,USA,Los Angeles,CA,South,Technology,Phones,iPhone 12,62.47,1,0.0,5.51
+ORD-1029,2023-01-22,2023-01-24,Sarah Lee,Consumer,USA,Los Angeles,NY,South,Furniture,Bookcases,Large Bookcase,1970.72,5,0.05,56.23
+ORD-1030,2023-09-10,2023-09-15,Olivia Davis,Corporate,USA,Los Angeles,CA,South,Office Supplies,Binders,A4 Binder,1940.13,1,0.2,-314.09
+ORD-1031,2024-07-14,2024-07-20,James Taylor,Corporate,USA,Los Angeles,TX,East,Furniture,Furnishings,Lamp,83.28,1,0.2,-13.84
+ORD-1032,2024-04-19,2024-04-20,David Kim,Consumer,USA,San Diego,AZ,South,Technology,Machines,Scanner,1730.8,1,0.2,692.03
+ORD-1033,2023-02-28,2023-03-04,Emma Wilson,Consumer,USA,Phoenix,AZ,East,Technology,Accessories,Mouse,1993.31,5,0.2,469.77
+ORD-1034,2024-05-25,2024-05-26,Sarah Lee,Consumer,USA,Phoenix,CA,East,Furniture,Furnishings,Carpet,1516.59,3,0.0,-83.94
+ORD-1035,2024-11-12,2024-11-17,Aisha Patel,Home Office,USA,Los Angeles,TX,East,Furniture,Chairs,Comfort Seat,418.04,1,0.1,-14.7
+ORD-1036,2024-04-20,2024-04-24,Michael Brown,Consumer,USA,Houston,AZ,Central,Office Supplies,Binders,A4 Binder,422.38,1,0.0,107.37
+ORD-1037,2024-11-30,2024-12-05,Michael Brown,Corporate,USA,Chicago,TX,West,Office Supplies,Storage,Storage Box,103.32,8,0.05,10.22
+ORD-1038,2023-07-09,2023-07-12,Sarah Lee,Home Office,USA,Houston,AZ,East,Technology,Phones,iPhone 12,957.66,3,0.1,-14.68
+ORD-1039,2024-11-17,2024-11-21,Emma Wilson,Corporate,USA,Chicago,NY,West,Furniture,Bookcases,Small Bookcase,1634.61,5,0.1,68.8
+ORD-1040,2024-07-16,2024-07-19,Michael Brown,Home Office,USA,San Diego,IL,East,Furniture,Furnishings,Carpet,276.69,7,0.2,47.64
+ORD-1041,2024-07-20,2024-07-21,Michael Brown,Corporate,USA,New York,NY,West,Furniture,Tables,Glass Table,1411.12,3,0.15,547.91
+ORD-1042,2023-09-01,2023-09-02,Michael Brown,Consumer,USA,Los Angeles,IL,South,Office Supplies,Paper,Premium Paper,1220.09,2,0.1,-177.4
+ORD-1043,2024-05-19,2024-05-23,David Kim,Home Office,USA,New York,NY,Central,Furniture,Furnishings,Curtains,1455.53,9,0.0,393.27
+ORD-1044,2023-05-11,2023-05-15,John Smith,Consumer,USA,Houston,AZ,South,Technology,Accessories,Headphones,799.12,7,0.05,253.66
+ORD-1045,2024-04-29,2024-05-05,James Taylor,Consumer,USA,New York,IL,West,Furniture,Tables,Desk Table,1899.55,4,0.05,676.15
+ORD-1046,2024-10-08,2024-10-13,Aisha Patel,Home Office,USA,New York,IL,West,Furniture,Bookcases,Large Bookcase,989.31,4,0.2,383.87
+ORD-1047,2023-01-21,2023-01-27,David Kim,Consumer,USA,Phoenix,CA,West,Furniture,Bookcases,Large Bookcase,990.31,3,0.0,75.33
+ORD-1048,2023-06-16,2023-06-21,Aisha Patel,Corporate,USA,San Diego,IL,South,Technology,Phones,iPhone 12,1173.68,6,0.15,-106.65
+ORD-1049,2023-10-01,2023-10-07,Aisha Patel,Corporate,USA,New York,TX,West,Furniture,Chairs,Ergo Chair X,697.88,3,0.1,76.17
+ORD-1050,2024-01-23,2024-01-26,James Taylor,Corporate,USA,Los Angeles,NY,West,Technology,Machines,Printer,1946.49,3,0.1,570.47
+ORD-1051,2024-08-23,2024-08-27,Emma Wilson,Consumer,USA,Chicago,AZ,South,Technology,Phones,Samsung Galaxy,696.71,6,0.2,90.04
+ORD-1052,2023-11-12,2023-11-13,Sarah Lee,Home Office,USA,Phoenix,IL,East,Furniture,Bookcases,Small Bookcase,1073.5,2,0.0,109.55
+ORD-1053,2023-01-14,2023-01-19,James Taylor,Home Office,USA,Houston,AZ,East,Technology,Machines,Scanner,1383.89,9,0.05,387.0
+ORD-1054,2023-08-30,2023-09-04,Aisha Patel,Corporate,USA,San Diego,TX,East,Furniture,Bookcases,Small Bookcase,1259.52,8,0.1,444.01
+ORD-1055,2023-12-12,2023-12-13,Sarah Lee,Home Office,USA,Chicago,AZ,Central,Technology,Phones,OnePlus Phone,131.55,4,0.0,-19.64
+ORD-1056,2024-07-18,2024-07-24,David Kim,Consumer,USA,Chicago,TX,Central,Technology,Machines,Scanner,1198.58,4,0.05,306.8
+ORD-1057,2023-12-06,2023-12-11,James Taylor,Home Office,USA,Phoenix,AZ,Central,Technology,Copiers,Xerox Copier,1067.22,2,0.2,-173.52
+ORD-1058,2023-04-02,2023-04-05,Olivia Davis,Corporate,USA,Los Angeles,TX,Central,Furniture,Bookcases,Large Bookcase,304.0,3,0.1,102.49
+ORD-1059,2024-01-02,2024-01-06,Michael Brown,Home Office,USA,Houston,CA,East,Technology,Accessories,Headphones,1028.24,2,0.05,12.84
+ORD-1060,2024-03-30,2024-03-31,Aisha Patel,Consumer,USA,Los Angeles,IL,West,Office Supplies,Storage,Storage Box,800.36,9,0.2,-72.54
+ORD-1061,2024-03-03,2024-03-07,Olivia Davis,Corporate,USA,Houston,AZ,East,Furniture,Chairs,Office Chair A,1132.29,1,0.05,137.24
+ORD-1062,2024-05-23,2024-05-28,David Kim,Home Office,USA,Houston,TX,West,Office Supplies,Paper,Premium Paper,474.1,4,0.0,98.36
+ORD-1063,2023-02-04,2023-02-09,Olivia Davis,Consumer,USA,Houston,CA,West,Office Supplies,Binders,A4 Binder,1580.45,2,0.15,193.23
+ORD-1064,2023-07-25,2023-07-26,Emma Wilson,Corporate,USA,Houston,CA,South,Office Supplies,Paper,A4 Sheets,1177.81,8,0.0,163.33
+ORD-1065,2023-03-22,2023-03-25,Michael Brown,Consumer,USA,Los Angeles,TX,South,Office Supplies,Art,Paint Set,763.76,5,0.15,143.24
+ORD-1066,2024-07-15,2024-07-17,Olivia Davis,Consumer,USA,San Diego,CA,Central,Office Supplies,Storage,File Cabinet,1145.85,8,0.1,449.07
+ORD-1067,2024-01-23,2024-01-24,Sarah Lee,Consumer,USA,Chicago,IL,Central,Office Supplies,Storage,Storage Box,1215.49,1,0.2,-168.87
+ORD-1068,2023-01-02,2023-01-04,Sarah Lee,Corporate,USA,San Diego,CA,West,Furniture,Tables,Glass Table,314.19,7,0.15,97.55
+ORD-1069,2024-01-25,2024-01-31,James Taylor,Corporate,USA,Houston,NY,West,Technology,Machines,Scanner,184.9,8,0.0,-28.08
+ORD-1070,2024-07-19,2024-07-21,Michael Brown,Corporate,USA,Houston,NY,Central,Office Supplies,Binders,Plastic Binder,1053.78,8,0.2,410.37
+ORD-1071,2023-04-16,2023-04-19,Olivia Davis,Consumer,USA,Los Angeles,IL,South,Technology,Accessories,Keyboard,232.96,2,0.15,88.92
+ORD-1072,2024-04-21,2024-04-27,David Kim,Home Office,USA,San Diego,CA,South,Technology,Machines,Scanner,1732.36,6,0.0,163.62
+ORD-1073,2024-12-03,2024-12-05,Sarah Lee,Home Office,USA,Phoenix,AZ,East,Office Supplies,Binders,Plastic Binder,1448.56,9,0.05,194.19
+ORD-1074,2024-02-06,2024-02-12,James Taylor,Corporate,USA,Los Angeles,NY,Central,Technology,Accessories,Keyboard,1147.51,3,0.2,300.3
+ORD-1075,2024-12-30,2025-01-01,James Taylor,Corporate,USA,Chicago,TX,Central,Furniture,Furnishings,Curtains,382.22,6,0.15,21.12
+ORD-1076,2024-07-09,2024-07-12,Emma Wilson,Consumer,USA,San Diego,AZ,East,Furniture,Furnishings,Lamp,1020.14,1,0.15,-133.74
+ORD-1077,2023-06-11,2023-06-13,John Smith,Home Office,USA,New York,CA,West,Office Supplies,Binders,A4 Binder,1225.13,6,0.2,127.0
+ORD-1078,2023-07-21,2023-07-23,Olivia Davis,Home Office,USA,Houston,NY,West,Furniture,Tables,Wooden Table,1864.71,3,0.0,40.16
+ORD-1079,2023-09-27,2023-09-29,David Kim,Corporate,USA,Phoenix,AZ,East,Technology,Machines,Printer,913.99,5,0.05,360.09
+ORD-1080,2023-09-28,2023-09-29,Aisha Patel,Consumer,USA,Phoenix,TX,South,Furniture,Chairs,Ergo Chair X,651.48,2,0.15,-30.76
+ORD-1081,2024-03-31,2024-04-01,John Smith,Corporate,USA,San Diego,IL,East,Office Supplies,Paper,A4 Sheets,1366.19,1,0.0,215.02
+ORD-1082,2024-04-06,2024-04-07,John Smith,Corporate,USA,New York,AZ,Central,Office Supplies,Art,Paint Set,948.44,7,0.1,8.84
+ORD-1083,2024-12-27,2024-12-30,James Taylor,Consumer,USA,Chicago,TX,West,Technology,Phones,Samsung Galaxy,1859.76,2,0.2,443.59
+ORD-1084,2023-09-09,2023-09-15,Emma Wilson,Consumer,USA,Houston,TX,Central,Office Supplies,Storage,File Cabinet,1877.3,3,0.1,668.07
+ORD-1085,2024-12-02,2024-12-07,Emma Wilson,Consumer,USA,Los Angeles,TX,South,Furniture,Bookcases,Large Bookcase,1445.98,8,0.1,400.77
+ORD-1086,2023-10-23,2023-10-25,Michael Brown,Corporate,USA,Houston,CA,Central,Technology,Machines,Printer,411.24,3,0.2,-36.25
+ORD-1087,2024-12-25,2024-12-27,Aisha Patel,Home Office,USA,Phoenix,CA,East,Technology,Machines,Printer,479.03,4,0.0,156.32
+ORD-1088,2024-12-20,2024-12-23,Olivia Davis,Consumer,USA,San Diego,TX,South,Technology,Copiers,Xerox Copier,790.97,8,0.1,137.99
+ORD-1089,2023-12-04,2023-12-06,Emma Wilson,Corporate,USA,Houston,CA,Central,Furniture,Bookcases,Small Bookcase,1084.16,1,0.0,14.33
+ORD-1090,2023-02-22,2023-02-23,Emma Wilson,Home Office,USA,San Diego,AZ,Central,Office Supplies,Storage,File Cabinet,789.05,2,0.2,271.34
+ORD-1091,2023-08-05,2023-08-10,Aisha Patel,Corporate,USA,Chicago,CA,East,Technology,Machines,Scanner,1252.23,3,0.1,221.17
+ORD-1092,2023-07-07,2023-07-11,Michael Brown,Consumer,USA,Los Angeles,TX,Central,Furniture,Tables,Wooden Table,676.46,4,0.2,65.79
+ORD-1093,2024-01-15,2024-01-17,John Smith,Home Office,USA,Chicago,CA,Central,Furniture,Bookcases,Small Bookcase,1485.51,4,0.2,-161.91
+ORD-1094,2024-05-07,2024-05-08,David Kim,Home Office,USA,New York,NY,Central,Office Supplies,Paper,Premium Paper,630.33,5,0.1,155.29
+ORD-1095,2023-02-10,2023-02-14,Olivia Davis,Corporate,USA,Phoenix,IL,South,Technology,Phones,iPhone 12,76.73,6,0.05,19.76
+ORD-1096,2023-06-06,2023-06-11,Sarah Lee,Corporate,USA,Chicago,TX,East,Technology,Accessories,Mouse,1754.76,1,0.2,-234.47
+ORD-1097,2023-01-15,2023-01-19,David Kim,Home Office,USA,San Diego,NY,West,Technology,Phones,OnePlus Phone,1694.44,8,0.15,65.02
+ORD-1098,2023-03-06,2023-03-07,Aisha Patel,Home Office,USA,New York,AZ,South,Technology,Phones,iPhone 12,1596.62,5,0.2,-99.71
+ORD-1099,2024-06-04,2024-06-10,Michael Brown,Home Office,USA,Chicago,AZ,South,Technology,Copiers,Mini Copier,1447.28,2,0.1,267.3
+ORD-1100,2023-12-10,2023-12-16,Sarah Lee,Consumer,USA,Los Angeles,CA,Central,Office Supplies,Binders,A4 Binder,1390.96,4,0.05,-68.05
+ORD-1101,2023-05-09,2023-05-13,James Taylor,Corporate,USA,New York,CA,East,Furniture,Tables,Desk Table,697.94,8,0.05,257.1
+ORD-1102,2024-10-09,2024-10-12,Michael Brown,Home Office,USA,New York,CA,Central,Office Supplies,Art,Paint Set,315.17,8,0.05,52.59
+ORD-1103,2024-04-16,2024-04-20,James Taylor,Consumer,USA,Los Angeles,IL,West,Technology,Phones,OnePlus Phone,46.04,4,0.15,12.62
+ORD-1104,2023-03-04,2023-03-06,John Smith,Consumer,USA,Chicago,CA,East,Office Supplies,Paper,A4 Sheets,55.81,1,0.15,1.38
+ORD-1105,2023-05-19,2023-05-21,James Taylor,Corporate,USA,New York,TX,Central,Technology,Machines,Scanner,147.15,3,0.2,-20.23
+ORD-1106,2024-05-13,2024-05-19,James Taylor,Home Office,USA,New York,AZ,East,Office Supplies,Art,Paint Set,1682.47,7,0.0,-222.18
+ORD-1107,2024-08-15,2024-08-18,Michael Brown,Home Office,USA,New York,CA,East,Technology,Machines,Printer,1969.83,4,0.0,-1.4
+ORD-1108,2024-01-27,2024-01-28,David Kim,Home Office,USA,Phoenix,TX,Central,Furniture,Tables,Glass Table,629.77,3,0.2,17.37
+ORD-1109,2024-11-05,2024-11-07,Emma Wilson,Corporate,USA,Houston,IL,South,Technology,Copiers,Xerox Copier,1491.06,4,0.0,-294.07
+ORD-1110,2024-02-23,2024-02-29,Michael Brown,Home Office,USA,Chicago,TX,South,Office Supplies,Binders,A4 Binder,673.66,4,0.0,214.3
+ORD-1111,2023-10-16,2023-10-21,Emma Wilson,Consumer,USA,New York,IL,Central,Technology,Phones,Samsung Galaxy,1846.69,7,0.05,163.44
+ORD-1112,2024-01-14,2024-01-20,John Smith,Consumer,USA,Phoenix,TX,South,Technology,Phones,OnePlus Phone,1837.72,3,0.0,181.97
+ORD-1113,2024-05-04,2024-05-06,Aisha Patel,Corporate,USA,San Diego,TX,East,Office Supplies,Storage,File Cabinet,843.66,8,0.0,14.71
+ORD-1114,2023-08-19,2023-08-21,John Smith,Home Office,USA,Houston,TX,East,Office Supplies,Paper,Premium Paper,1165.37,6,0.05,-223.92
+ORD-1115,2023-02-10,2023-02-16,James Taylor,Consumer,USA,Chicago,AZ,East,Office Supplies,Paper,A4 Sheets,1330.44,7,0.0,501.1
+ORD-1116,2023-01-28,2023-01-29,Michael Brown,Home Office,USA,New York,CA,South,Furniture,Chairs,Ergo Chair X,305.84,6,0.15,37.02
+ORD-1117,2023-05-15,2023-05-19,Olivia Davis,Home Office,USA,Houston,TX,West,Office Supplies,Storage,File Cabinet,377.08,7,0.0,-5.29
+ORD-1118,2023-07-20,2023-07-22,Sarah Lee,Corporate,USA,Phoenix,AZ,West,Furniture,Furnishings,Lamp,800.66,3,0.1,224.08
+ORD-1119,2023-02-02,2023-02-08,Olivia Davis,Consumer,USA,New York,IL,Central,Technology,Machines,Scanner,705.28,1,0.2,18.79
+ORD-1120,2023-02-17,2023-02-23,Olivia Davis,Corporate,USA,Chicago,AZ,South,Technology,Copiers,Mini Copier,1674.76,3,0.05,-39.48
+ORD-1121,2024-05-17,2024-05-20,John Smith,Corporate,USA,Houston,CA,South,Furniture,Tables,Desk Table,1430.98,2,0.05,172.68
+ORD-1122,2024-02-11,2024-02-15,John Smith,Consumer,USA,Houston,CA,South,Office Supplies,Art,Paint Set,967.37,6,0.1,-103.37
+ORD-1123,2024-07-27,2024-08-01,John Smith,Home Office,USA,Houston,NY,South,Office Supplies,Storage,Storage Box,372.04,7,0.1,8.92
+ORD-1124,2024-12-28,2024-12-29,Michael Brown,Corporate,USA,Los Angeles,NY,South,Furniture,Furnishings,Carpet,548.78,2,0.15,153.91
+ORD-1125,2023-04-09,2023-04-14,Emma Wilson,Home Office,USA,Chicago,AZ,South,Office Supplies,Art,Markers,1958.07,2,0.2,87.7
+ORD-1126,2024-11-14,2024-11-18,Michael Brown,Consumer,USA,Phoenix,NY,West,Office Supplies,Art,Markers,1107.93,3,0.1,114.45
+ORD-1127,2024-12-26,2024-12-30,David Kim,Home Office,USA,New York,NY,South,Office Supplies,Binders,Plastic Binder,1194.15,9,0.2,-110.9
+ORD-1128,2024-06-30,2024-07-04,Emma Wilson,Corporate,USA,Chicago,NY,Central,Technology,Phones,iPhone 12,1308.96,8,0.05,370.68
+ORD-1129,2024-09-04,2024-09-09,David Kim,Consumer,USA,Phoenix,TX,West,Technology,Accessories,Mouse,1977.57,8,0.1,746.71
+ORD-1130,2024-04-06,2024-04-10,David Kim,Consumer,USA,San Diego,CA,South,Furniture,Furnishings,Carpet,1889.38,6,0.2,82.82
+ORD-1131,2024-10-04,2024-10-10,Michael Brown,Home Office,USA,Chicago,NY,South,Technology,Machines,Scanner,654.74,2,0.05,-97.36
+ORD-1132,2023-01-05,2023-01-10,James Taylor,Home Office,USA,Houston,IL,Central,Office Supplies,Paper,A4 Sheets,423.69,3,0.2,138.07
+ORD-1133,2023-08-06,2023-08-10,Sarah Lee,Consumer,USA,Los Angeles,TX,South,Technology,Copiers,Mini Copier,1289.42,2,0.05,446.62
+ORD-1134,2024-05-17,2024-05-23,James Taylor,Corporate,USA,San Diego,IL,East,Technology,Machines,Scanner,1253.27,2,0.1,193.23
+ORD-1135,2024-02-02,2024-02-05,Aisha Patel,Home Office,USA,San Diego,TX,Central,Furniture,Chairs,Comfort Seat,543.45,5,0.2,24.81
+ORD-1136,2024-01-28,2024-02-01,David Kim,Home Office,USA,Los Angeles,AZ,Central,Technology,Accessories,Headphones,1108.57,2,0.2,-25.85
+ORD-1137,2023-07-26,2023-07-31,David Kim,Consumer,USA,Houston,NY,Central,Furniture,Chairs,Ergo Chair X,1897.42,6,0.15,-219.97
+ORD-1138,2023-01-15,2023-01-17,Emma Wilson,Home Office,USA,Los Angeles,CA,West,Technology,Machines,Scanner,1738.25,8,0.1,585.32
+ORD-1139,2024-07-07,2024-07-11,Emma Wilson,Consumer,USA,Chicago,TX,Central,Office Supplies,Storage,Storage Box,1601.71,1,0.05,-298.75
+ORD-1140,2024-04-05,2024-04-07,Sarah Lee,Corporate,USA,Los Angeles,TX,Central,Technology,Phones,iPhone 12,544.67,8,0.05,98.09
+ORD-1141,2024-11-21,2024-11-27,James Taylor,Home Office,USA,Houston,IL,Central,Furniture,Bookcases,Small Bookcase,523.2,6,0.1,27.74
+ORD-1142,2024-07-28,2024-07-31,Emma Wilson,Home Office,USA,Los Angeles,TX,East,Technology,Phones,OnePlus Phone,273.23,2,0.2,-51.63
+ORD-1143,2023-08-29,2023-08-30,Sarah Lee,Consumer,USA,Houston,IL,South,Furniture,Chairs,Comfort Seat,1829.45,5,0.05,266.93
+ORD-1144,2024-07-17,2024-07-20,Aisha Patel,Home Office,USA,Houston,NY,East,Furniture,Chairs,Ergo Chair X,555.37,1,0.2,105.99
+ORD-1145,2023-04-06,2023-04-10,David Kim,Corporate,USA,Chicago,AZ,South,Furniture,Furnishings,Curtains,1661.19,7,0.2,-321.28
+ORD-1146,2024-04-29,2024-05-01,John Smith,Home Office,USA,Phoenix,TX,Central,Office Supplies,Binders,Plastic Binder,282.4,9,0.1,44.75
+ORD-1147,2024-02-11,2024-02-13,Sarah Lee,Home Office,USA,Houston,CA,Central,Technology,Accessories,Keyboard,1205.03,9,0.2,-114.21
+ORD-1148,2023-08-19,2023-08-24,Sarah Lee,Corporate,USA,Houston,IL,West,Technology,Machines,Printer,1829.68,5,0.15,480.38
+ORD-1149,2024-10-16,2024-10-18,John Smith,Corporate,USA,San Diego,AZ,East,Furniture,Tables,Desk Table,849.85,2,0.15,318.84
+ORD-1150,2023-06-20,2023-06-25,Aisha Patel,Consumer,USA,Los Angeles,NY,West,Furniture,Tables,Desk Table,376.9,5,0.15,98.97
+ORD-1151,2024-06-24,2024-06-30,David Kim,Home Office,USA,New York,IL,West,Technology,Accessories,Headphones,145.82,8,0.1,1.95
+ORD-1152,2023-02-05,2023-02-06,John Smith,Corporate,USA,San Diego,NY,West,Technology,Accessories,Mouse,1440.9,7,0.1,532.53
+ORD-1153,2024-06-08,2024-06-12,David Kim,Home Office,USA,Los Angeles,IL,East,Furniture,Bookcases,Small Bookcase,799.33,8,0.2,72.14
+ORD-1154,2023-06-09,2023-06-14,Emma Wilson,Home Office,USA,New York,TX,South,Technology,Phones,OnePlus Phone,547.12,4,0.1,85.92
+ORD-1155,2024-11-29,2024-11-30,Michael Brown,Corporate,USA,Phoenix,CA,East,Office Supplies,Binders,Plastic Binder,112.34,2,0.0,29.49
+ORD-1156,2023-08-31,2023-09-02,Sarah Lee,Corporate,USA,Houston,TX,South,Office Supplies,Binders,A4 Binder,222.13,9,0.0,10.59
+ORD-1157,2023-03-27,2023-03-29,Sarah Lee,Consumer,USA,New York,IL,West,Office Supplies,Art,Markers,1412.8,8,0.05,107.1
+ORD-1158,2024-07-31,2024-08-01,Olivia Davis,Home Office,USA,Phoenix,AZ,Central,Technology,Machines,Scanner,161.11,2,0.2,-32.0
+ORD-1159,2024-11-12,2024-11-14,James Taylor,Corporate,USA,San Diego,NY,West,Office Supplies,Art,Markers,1935.72,6,0.05,-267.41
+ORD-1160,2024-07-10,2024-07-16,Sarah Lee,Corporate,USA,Houston,TX,South,Furniture,Furnishings,Curtains,636.05,1,0.2,174.28
+ORD-1161,2024-07-27,2024-08-02,Sarah Lee,Consumer,USA,Chicago,CA,South,Technology,Machines,Scanner,1384.21,1,0.15,173.22
+ORD-1162,2024-10-07,2024-10-08,John Smith,Home Office,USA,New York,IL,West,Furniture,Chairs,Ergo Chair X,1747.16,8,0.2,446.26
+ORD-1163,2023-01-28,2023-02-02,John Smith,Corporate,USA,Houston,IL,South,Office Supplies,Storage,Storage Box,1450.97,6,0.0,496.26
+ORD-1164,2024-09-11,2024-09-16,David Kim,Home Office,USA,New York,AZ,West,Office Supplies,Storage,File Cabinet,1296.86,9,0.2,261.9
+ORD-1165,2024-07-09,2024-07-10,Sarah Lee,Corporate,USA,Chicago,AZ,Central,Technology,Accessories,Mouse,97.89,7,0.0,-8.97
+ORD-1166,2023-12-06,2023-12-11,Michael Brown,Consumer,USA,Phoenix,AZ,East,Office Supplies,Paper,Premium Paper,1140.21,7,0.2,272.07
+ORD-1167,2023-11-27,2023-12-02,David Kim,Consumer,USA,Chicago,IL,East,Furniture,Bookcases,Large Bookcase,393.27,8,0.05,20.87
+ORD-1168,2024-10-01,2024-10-07,Aisha Patel,Corporate,USA,Los Angeles,NY,East,Office Supplies,Art,Markers,1592.73,4,0.1,-13.6
+ORD-1169,2024-05-20,2024-05-25,Emma Wilson,Home Office,USA,Los Angeles,IL,Central,Technology,Copiers,Mini Copier,1659.54,1,0.1,226.37
+ORD-1170,2023-12-14,2023-12-17,Sarah Lee,Corporate,USA,Los Angeles,CA,East,Office Supplies,Binders,A4 Binder,967.31,3,0.2,114.3
+ORD-1171,2024-04-17,2024-04-21,Michael Brown,Consumer,USA,Phoenix,TX,South,Technology,Copiers,Mini Copier,887.65,7,0.15,127.34
+ORD-1172,2023-08-19,2023-08-21,Olivia Davis,Home Office,USA,Houston,NY,Central,Office Supplies,Binders,Plastic Binder,1609.91,4,0.2,317.14
+ORD-1173,2023-07-09,2023-07-12,John Smith,Consumer,USA,Los Angeles,TX,East,Office Supplies,Storage,Storage Box,1478.33,1,0.2,250.6
+ORD-1174,2023-08-13,2023-08-18,Sarah Lee,Consumer,USA,Chicago,IL,Central,Technology,Accessories,Mouse,473.59,7,0.1,152.52
+ORD-1175,2024-01-20,2024-01-26,Emma Wilson,Consumer,USA,Los Angeles,TX,West,Technology,Copiers,Xerox Copier,52.33,7,0.2,6.14
+ORD-1176,2024-01-12,2024-01-13,Emma Wilson,Home Office,USA,New York,TX,East,Technology,Phones,Samsung Galaxy,1878.74,3,0.1,749.17
+ORD-1177,2023-10-10,2023-10-15,John Smith,Corporate,USA,Chicago,NY,South,Technology,Copiers,Mini Copier,707.92,1,0.2,-125.61
+ORD-1178,2024-09-24,2024-09-30,Sarah Lee,Consumer,USA,Chicago,NY,South,Furniture,Furnishings,Carpet,964.76,8,0.15,376.69
+ORD-1179,2024-09-19,2024-09-23,Aisha Patel,Corporate,USA,Houston,IL,Central,Technology,Copiers,Xerox Copier,1538.86,9,0.15,373.25
+ORD-1180,2023-09-16,2023-09-21,Emma Wilson,Corporate,USA,San Diego,NY,West,Furniture,Chairs,Comfort Seat,485.17,3,0.2,6.2
+ORD-1181,2023-12-25,2023-12-26,Aisha Patel,Consumer,USA,New York,CA,Central,Office Supplies,Paper,A4 Sheets,581.61,4,0.05,-34.8
+ORD-1182,2024-12-10,2024-12-16,Olivia Davis,Home Office,USA,Los Angeles,TX,South,Office Supplies,Paper,A4 Sheets,93.77,1,0.2,36.82
+ORD-1183,2024-03-31,2024-04-06,Olivia Davis,Corporate,USA,Los Angeles,TX,East,Office Supplies,Storage,File Cabinet,861.27,1,0.0,178.96
+ORD-1184,2024-02-15,2024-02-21,Sarah Lee,Corporate,USA,Phoenix,NY,Central,Office Supplies,Storage,File Cabinet,444.33,5,0.2,-19.82
+ORD-1185,2024-10-10,2024-10-14,Sarah Lee,Home Office,USA,New York,IL,Central,Technology,Copiers,Xerox Copier,1181.22,7,0.1,404.25
+ORD-1186,2023-11-14,2023-11-19,Olivia Davis,Home Office,USA,Phoenix,AZ,East,Furniture,Furnishings,Curtains,1978.48,7,0.15,-318.55
+ORD-1187,2024-11-07,2024-11-11,John Smith,Corporate,USA,Phoenix,TX,West,Office Supplies,Paper,Premium Paper,809.14,6,0.2,241.44
+ORD-1188,2023-08-13,2023-08-15,Aisha Patel,Home Office,USA,Phoenix,CA,East,Furniture,Bookcases,Small Bookcase,249.47,2,0.0,-16.89
+ORD-1189,2023-08-22,2023-08-24,James Taylor,Corporate,USA,Chicago,IL,Central,Technology,Copiers,Xerox Copier,381.01,3,0.2,-62.98
+ORD-1190,2024-11-14,2024-11-19,Emma Wilson,Consumer,USA,San Diego,IL,East,Technology,Phones,OnePlus Phone,1938.51,1,0.0,691.37
+ORD-1191,2024-10-25,2024-10-29,Emma Wilson,Consumer,USA,Chicago,AZ,West,Office Supplies,Art,Paint Set,1989.87,3,0.05,188.46
+ORD-1192,2024-01-09,2024-01-10,Sarah Lee,Corporate,USA,Chicago,TX,West,Office Supplies,Paper,Premium Paper,1992.71,3,0.1,-130.2
+ORD-1193,2024-11-02,2024-11-08,James Taylor,Home Office,USA,Los Angeles,AZ,East,Office Supplies,Art,Paint Set,455.4,9,0.0,153.45
+ORD-1194,2024-08-30,2024-09-05,Emma Wilson,Corporate,USA,Chicago,CA,West,Technology,Phones,Samsung Galaxy,1721.65,9,0.1,-62.37
+ORD-1195,2024-04-16,2024-04-21,Sarah Lee,Home Office,USA,Los Angeles,NY,Central,Furniture,Tables,Wooden Table,958.59,3,0.0,298.42
+ORD-1196,2023-08-21,2023-08-23,David Kim,Consumer,USA,Phoenix,CA,South,Office Supplies,Binders,Plastic Binder,80.49,8,0.0,10.51
+ORD-1197,2024-11-22,2024-11-24,Emma Wilson,Home Office,USA,Houston,NY,South,Furniture,Tables,Desk Table,183.1,8,0.15,4.32
+ORD-1198,2023-04-23,2023-04-29,Aisha Patel,Home Office,USA,Phoenix,IL,South,Office Supplies,Paper,Premium Paper,526.91,5,0.05,63.0
+ORD-1199,2024-05-11,2024-05-16,Olivia Davis,Corporate,USA,Los Angeles,IL,South,Furniture,Bookcases,Large Bookcase,1924.62,5,0.2,598.03
+ORD-1200,2024-03-17,2024-03-21,Michael Brown,Consumer,USA,Los Angeles,AZ,West,Technology,Copiers,Xerox Copier,995.34,3,0.05,142.13
+ORD-1201,2024-07-17,2024-07-19,Michael Brown,Consumer,USA,Phoenix,NY,East,Office Supplies,Art,Paint Set,1327.6,8,0.1,423.1
+ORD-1202,2023-09-25,2023-09-29,Sarah Lee,Consumer,USA,Phoenix,CA,South,Furniture,Bookcases,Large Bookcase,1470.48,8,0.1,471.87
+ORD-1203,2024-05-24,2024-05-26,Emma Wilson,Consumer,USA,Houston,NY,South,Technology,Machines,Printer,498.12,9,0.2,150.54
+ORD-1204,2024-01-21,2024-01-23,Sarah Lee,Home Office,USA,Los Angeles,NY,Central,Technology,Phones,Samsung Galaxy,1397.97,4,0.1,351.77
+ORD-1205,2024-01-22,2024-01-25,Olivia Davis,Home Office,USA,Los Angeles,NY,Central,Office Supplies,Storage,Storage Box,325.62,9,0.1,106.62
+ORD-1206,2023-04-23,2023-04-25,John Smith,Corporate,USA,Phoenix,NY,East,Furniture,Furnishings,Curtains,20.24,5,0.05,5.89
+ORD-1207,2024-09-04,2024-09-05,Sarah Lee,Corporate,USA,San Diego,AZ,South,Furniture,Tables,Desk Table,1665.95,7,0.05,-46.28
+ORD-1208,2024-09-16,2024-09-21,Olivia Davis,Consumer,USA,New York,CA,South,Furniture,Bookcases,Small Bookcase,1237.68,1,0.0,221.65
+ORD-1209,2023-03-22,2023-03-27,David Kim,Corporate,USA,Phoenix,NY,West,Furniture,Furnishings,Carpet,527.01,8,0.2,141.19
+ORD-1210,2024-11-29,2024-12-03,David Kim,Home Office,USA,Chicago,CA,South,Technology,Phones,OnePlus Phone,222.89,7,0.05,13.23
+ORD-1211,2023-04-23,2023-04-25,James Taylor,Corporate,USA,New York,AZ,East,Office Supplies,Binders,Plastic Binder,1681.84,5,0.2,459.62
+ORD-1212,2023-01-02,2023-01-03,Sarah Lee,Corporate,USA,Chicago,NY,Central,Furniture,Furnishings,Curtains,355.77,4,0.05,131.06
+ORD-1213,2024-10-03,2024-10-07,John Smith,Corporate,USA,San Diego,IL,West,Furniture,Chairs,Comfort Seat,341.09,6,0.0,50.93
+ORD-1214,2023-08-08,2023-08-11,David Kim,Consumer,USA,San Diego,TX,South,Office Supplies,Storage,Storage Box,698.31,8,0.1,217.49
+ORD-1215,2024-07-19,2024-07-23,Aisha Patel,Consumer,USA,Chicago,CA,East,Furniture,Furnishings,Lamp,1980.4,4,0.1,-241.51
+ORD-1216,2023-08-13,2023-08-17,John Smith,Home Office,USA,Phoenix,TX,Central,Technology,Machines,Scanner,1518.94,7,0.2,-283.63
+ORD-1217,2024-01-20,2024-01-22,Sarah Lee,Corporate,USA,New York,IL,Central,Furniture,Bookcases,Large Bookcase,653.98,3,0.1,137.32
+ORD-1218,2024-02-07,2024-02-10,Olivia Davis,Home Office,USA,Houston,IL,West,Technology,Copiers,Mini Copier,897.35,2,0.2,328.95
+ORD-1219,2024-09-29,2024-10-03,James Taylor,Home Office,USA,New York,TX,East,Technology,Machines,Scanner,213.37,9,0.2,46.13
+ORD-1220,2023-05-10,2023-05-11,Michael Brown,Corporate,USA,New York,NY,Central,Furniture,Bookcases,Large Bookcase,449.33,2,0.15,86.59
+ORD-1221,2023-02-22,2023-02-23,Olivia Davis,Consumer,USA,San Diego,TX,Central,Technology,Copiers,Xerox Copier,553.79,1,0.15,-100.36
+ORD-1222,2024-11-14,2024-11-19,James Taylor,Corporate,USA,Chicago,NY,East,Office Supplies,Storage,File Cabinet,1465.23,5,0.1,554.9
+ORD-1223,2024-12-30,2025-01-02,John Smith,Consumer,USA,Los Angeles,AZ,South,Office Supplies,Paper,A4 Sheets,1522.59,5,0.1,-19.53
+ORD-1224,2024-11-02,2024-11-05,John Smith,Home Office,USA,Chicago,IL,South,Furniture,Tables,Desk Table,648.28,6,0.05,-46.77
+ORD-1225,2024-12-10,2024-12-15,David Kim,Home Office,USA,Chicago,TX,East,Furniture,Furnishings,Curtains,71.96,9,0.15,9.91
+ORD-1226,2024-02-20,2024-02-24,Sarah Lee,Consumer,USA,San Diego,IL,West,Technology,Copiers,Mini Copier,948.35,8,0.15,-84.1
+ORD-1227,2023-09-04,2023-09-07,Michael Brown,Corporate,USA,Phoenix,TX,East,Office Supplies,Paper,Premium Paper,1738.56,5,0.1,533.51
+ORD-1228,2024-03-14,2024-03-15,Aisha Patel,Consumer,USA,Phoenix,IL,South,Office Supplies,Art,Markers,1524.44,3,0.2,-184.84
+ORD-1229,2023-07-22,2023-07-23,Emma Wilson,Home Office,USA,Los Angeles,TX,East,Furniture,Chairs,Ergo Chair X,74.73,3,0.15,20.77
+ORD-1230,2023-07-03,2023-07-05,David Kim,Home Office,USA,Phoenix,IL,Central,Technology,Phones,OnePlus Phone,968.23,7,0.0,159.16
+ORD-1231,2023-05-03,2023-05-06,Aisha Patel,Consumer,USA,Phoenix,CA,East,Office Supplies,Paper,Premium Paper,502.6,9,0.0,-52.02
+ORD-1232,2024-02-05,2024-02-09,Olivia Davis,Home Office,USA,Chicago,AZ,Central,Furniture,Furnishings,Lamp,1306.52,5,0.2,201.41
+ORD-1233,2023-10-21,2023-10-26,James Taylor,Corporate,USA,Chicago,TX,South,Furniture,Chairs,Office Chair A,872.16,1,0.2,-136.52
+ORD-1234,2023-10-07,2023-10-12,Olivia Davis,Home Office,USA,Chicago,NY,South,Office Supplies,Binders,A4 Binder,791.06,6,0.1,171.65
+ORD-1235,2024-09-01,2024-09-05,David Kim,Corporate,USA,Phoenix,AZ,West,Office Supplies,Storage,Storage Box,1721.64,6,0.0,-303.4
+ORD-1236,2023-07-17,2023-07-23,David Kim,Consumer,USA,Phoenix,CA,Central,Office Supplies,Binders,A4 Binder,966.21,8,0.0,-52.92
+ORD-1237,2024-05-25,2024-05-27,Michael Brown,Consumer,USA,Phoenix,IL,East,Technology,Accessories,Keyboard,1973.46,6,0.15,437.08
+ORD-1238,2023-05-24,2023-05-29,David Kim,Home Office,USA,San Diego,IL,East,Office Supplies,Storage,Storage Box,1123.7,2,0.15,-175.92
+ORD-1239,2024-08-31,2024-09-03,John Smith,Consumer,USA,San Diego,AZ,Central,Office Supplies,Paper,A4 Sheets,1073.14,9,0.2,-161.5
+ORD-1240,2023-07-20,2023-07-22,James Taylor,Home Office,USA,Phoenix,IL,West,Furniture,Chairs,Comfort Seat,1650.78,6,0.05,637.99
+ORD-1241,2023-05-04,2023-05-07,Michael Brown,Corporate,USA,San Diego,AZ,Central,Office Supplies,Binders,Plastic Binder,409.71,2,0.05,-71.82
+ORD-1242,2023-07-06,2023-07-07,David Kim,Corporate,USA,Houston,NY,East,Furniture,Furnishings,Curtains,1344.07,8,0.1,-168.64
+ORD-1243,2023-11-22,2023-11-24,Emma Wilson,Home Office,USA,Los Angeles,IL,West,Technology,Copiers,Mini Copier,1793.48,9,0.0,-302.77
+ORD-1244,2024-04-08,2024-04-13,Emma Wilson,Consumer,USA,Los Angeles,IL,East,Technology,Machines,Scanner,1087.18,2,0.15,350.7
+ORD-1245,2023-12-15,2023-12-17,Sarah Lee,Consumer,USA,Houston,CA,West,Technology,Phones,Samsung Galaxy,1431.03,4,0.1,129.71
+ORD-1246,2024-10-21,2024-10-23,Emma Wilson,Consumer,USA,Los Angeles,CA,Central,Technology,Copiers,Mini Copier,1325.03,4,0.05,358.15
+ORD-1247,2024-02-07,2024-02-09,Olivia Davis,Consumer,USA,Houston,TX,Central,Furniture,Furnishings,Carpet,967.0,9,0.15,231.07
+ORD-1248,2023-12-12,2023-12-18,Emma Wilson,Consumer,USA,Houston,CA,West,Furniture,Furnishings,Carpet,172.44,6,0.15,-8.92
+ORD-1249,2024-05-25,2024-05-27,John Smith,Consumer,USA,Phoenix,TX,Central,Furniture,Bookcases,Large Bookcase,327.49,3,0.05,-0.85
+ORD-1250,2023-05-27,2023-05-30,Emma Wilson,Consumer,USA,San Diego,IL,South,Technology,Accessories,Keyboard,945.66,8,0.2,258.94
+ORD-1251,2023-05-28,2023-05-29,Michael Brown,Consumer,USA,Phoenix,CA,Central,Technology,Phones,OnePlus Phone,1320.83,3,0.15,175.96
+ORD-1252,2024-12-11,2024-12-15,David Kim,Consumer,USA,Phoenix,AZ,East,Technology,Copiers,Mini Copier,1441.21,6,0.2,573.31
+ORD-1253,2024-05-03,2024-05-05,Aisha Patel,Home Office,USA,Phoenix,IL,West,Technology,Machines,Scanner,1949.84,3,0.15,-156.52
+ORD-1254,2024-10-01,2024-10-06,Emma Wilson,Corporate,USA,New York,NY,West,Office Supplies,Art,Markers,1363.65,6,0.0,414.92
+ORD-1255,2024-07-04,2024-07-06,Emma Wilson,Home Office,USA,Phoenix,AZ,West,Office Supplies,Art,Markers,356.64,5,0.05,87.6
+ORD-1256,2023-12-04,2023-12-09,Olivia Davis,Home Office,USA,Phoenix,IL,Central,Technology,Accessories,Keyboard,856.73,4,0.15,19.38
+ORD-1257,2024-10-02,2024-10-05,Sarah Lee,Corporate,USA,New York,IL,Central,Office Supplies,Storage,File Cabinet,1975.42,8,0.05,632.57
+ORD-1258,2024-04-17,2024-04-22,Aisha Patel,Home Office,USA,Phoenix,TX,Central,Office Supplies,Storage,Storage Box,1161.56,4,0.05,273.15
+ORD-1259,2023-05-31,2023-06-04,David Kim,Home Office,USA,Phoenix,AZ,South,Furniture,Furnishings,Lamp,978.47,2,0.05,269.84
+ORD-1260,2024-02-19,2024-02-20,John Smith,Corporate,USA,San Diego,NY,West,Furniture,Chairs,Comfort Seat,1313.47,3,0.1,-38.99
+ORD-1261,2023-10-25,2023-10-30,Olivia Davis,Home Office,USA,Houston,CA,South,Technology,Copiers,Xerox Copier,724.71,3,0.2,57.61
+ORD-1262,2024-09-02,2024-09-07,Olivia Davis,Home Office,USA,Phoenix,CA,Central,Office Supplies,Binders,A4 Binder,1673.64,1,0.1,444.52
+ORD-1263,2023-09-20,2023-09-21,Emma Wilson,Home Office,USA,Houston,AZ,Central,Technology,Machines,Printer,816.57,7,0.05,-46.93
+ORD-1264,2023-05-24,2023-05-28,Michael Brown,Consumer,USA,Los Angeles,CA,Central,Office Supplies,Storage,File Cabinet,1943.08,7,0.2,607.47
+ORD-1265,2023-12-12,2023-12-14,Olivia Davis,Corporate,USA,San Diego,TX,Central,Technology,Machines,Printer,989.63,6,0.15,42.57
+ORD-1266,2024-09-15,2024-09-20,James Taylor,Corporate,USA,New York,AZ,South,Office Supplies,Storage,File Cabinet,1189.91,7,0.0,235.09
+ORD-1267,2024-07-25,2024-07-26,Olivia Davis,Home Office,USA,Chicago,NY,Central,Furniture,Bookcases,Small Bookcase,199.57,1,0.1,-2.54
+ORD-1268,2023-01-02,2023-01-05,Michael Brown,Consumer,USA,Los Angeles,AZ,Central,Technology,Copiers,Xerox Copier,804.1,3,0.2,-156.46
+ORD-1269,2023-10-31,2023-11-01,Aisha Patel,Consumer,USA,New York,AZ,West,Furniture,Tables,Wooden Table,1180.94,8,0.15,450.99
+ORD-1270,2023-09-11,2023-09-14,David Kim,Consumer,USA,San Diego,TX,East,Furniture,Furnishings,Curtains,913.04,3,0.05,63.24
+ORD-1271,2024-10-13,2024-10-17,Aisha Patel,Corporate,USA,San Diego,TX,South,Office Supplies,Paper,Premium Paper,1342.09,9,0.0,93.49
+ORD-1272,2024-03-28,2024-03-30,John Smith,Consumer,USA,New York,AZ,West,Technology,Machines,Printer,1179.89,1,0.0,-117.72
+ORD-1273,2023-02-06,2023-02-07,Michael Brown,Consumer,USA,Houston,TX,West,Technology,Accessories,Mouse,343.56,9,0.1,83.09
+ORD-1274,2023-06-09,2023-06-15,Olivia Davis,Consumer,USA,Chicago,IL,South,Furniture,Bookcases,Small Bookcase,1330.97,5,0.0,407.95
+ORD-1275,2023-01-09,2023-01-14,David Kim,Home Office,USA,Los Angeles,NY,Central,Office Supplies,Art,Paint Set,1613.28,6,0.15,199.96
+ORD-1276,2023-08-21,2023-08-25,Aisha Patel,Consumer,USA,New York,IL,Central,Technology,Machines,Printer,78.03,2,0.0,9.26
+ORD-1277,2023-04-09,2023-04-10,James Taylor,Home Office,USA,Phoenix,IL,East,Office Supplies,Art,Paint Set,1873.85,1,0.1,133.64
+ORD-1278,2024-10-20,2024-10-25,John Smith,Corporate,USA,Houston,IL,West,Furniture,Tables,Wooden Table,1868.41,5,0.0,194.95
+ORD-1279,2023-07-27,2023-07-28,John Smith,Corporate,USA,Chicago,IL,Central,Technology,Accessories,Keyboard,92.73,4,0.2,8.15
+ORD-1280,2023-05-11,2023-05-14,Michael Brown,Consumer,USA,New York,NY,South,Office Supplies,Storage,Storage Box,1375.08,2,0.0,252.29
+ORD-1281,2024-02-08,2024-02-09,Aisha Patel,Consumer,USA,San Diego,IL,Central,Technology,Machines,Printer,1737.16,8,0.1,162.09
+ORD-1282,2023-06-01,2023-06-07,James Taylor,Home Office,USA,Houston,AZ,Central,Furniture,Furnishings,Lamp,1337.06,4,0.2,-152.26
+ORD-1283,2023-02-23,2023-02-24,Olivia Davis,Home Office,USA,Los Angeles,AZ,East,Office Supplies,Art,Markers,1880.24,7,0.05,-163.56
+ORD-1284,2023-04-30,2023-05-01,Aisha Patel,Home Office,USA,Phoenix,NY,East,Office Supplies,Storage,Storage Box,1464.35,6,0.2,553.54
+ORD-1285,2024-11-03,2024-11-09,Sarah Lee,Home Office,USA,Chicago,AZ,South,Office Supplies,Paper,A4 Sheets,518.06,1,0.05,12.73
+ORD-1286,2024-09-19,2024-09-23,Olivia Davis,Consumer,USA,Phoenix,TX,East,Furniture,Furnishings,Lamp,44.86,2,0.0,13.39
+ORD-1287,2024-08-09,2024-08-10,Michael Brown,Home Office,USA,Phoenix,NY,South,Office Supplies,Art,Paint Set,1730.57,1,0.15,-228.67
+ORD-1288,2024-09-16,2024-09-22,John Smith,Corporate,USA,New York,CA,East,Furniture,Furnishings,Curtains,1593.07,4,0.0,255.47
+ORD-1289,2024-02-24,2024-02-29,John Smith,Corporate,USA,New York,NY,South,Technology,Phones,OnePlus Phone,1882.34,5,0.2,275.41
+ORD-1290,2024-02-26,2024-02-29,James Taylor,Corporate,USA,San Diego,TX,Central,Technology,Accessories,Mouse,703.66,2,0.05,114.68
+ORD-1291,2023-04-14,2023-04-17,Emma Wilson,Consumer,USA,San Diego,AZ,West,Technology,Copiers,Xerox Copier,643.04,1,0.0,254.65
+ORD-1292,2023-09-11,2023-09-12,John Smith,Corporate,USA,Los Angeles,CA,East,Furniture,Furnishings,Carpet,1507.33,5,0.2,-40.38
+ORD-1293,2023-08-15,2023-08-19,Emma Wilson,Consumer,USA,Los Angeles,CA,South,Technology,Copiers,Mini Copier,227.13,2,0.2,58.85
+ORD-1294,2023-04-22,2023-04-26,John Smith,Consumer,USA,New York,NY,South,Technology,Accessories,Headphones,1852.09,3,0.05,476.67
+ORD-1295,2024-05-24,2024-05-29,John Smith,Consumer,USA,Phoenix,NY,South,Furniture,Chairs,Office Chair A,1597.65,3,0.2,464.44
+ORD-1296,2024-04-17,2024-04-18,John Smith,Consumer,USA,Houston,CA,West,Office Supplies,Binders,Plastic Binder,249.22,6,0.0,-0.74
+ORD-1297,2023-04-09,2023-04-12,Emma Wilson,Consumer,USA,San Diego,AZ,Central,Office Supplies,Storage,Storage Box,1264.12,7,0.2,35.71
+ORD-1298,2023-06-02,2023-06-06,Michael Brown,Corporate,USA,Phoenix,CA,South,Technology,Accessories,Headphones,1101.51,1,0.0,140.35
+ORD-1299,2023-12-04,2023-12-05,John Smith,Corporate,USA,San Diego,TX,South,Furniture,Tables,Desk Table,894.39,6,0.05,136.16
