@@ -132,13 +132,10 @@ Examined the relationship between sales and profit.
 ## Project Structure
 
 ```text
-business-sales-analytics/
+FUTURE_DS_01/
 │
-├── data/
-│   └── sales_dataset.csv
+├── sales_dataset.csv
 │
-├── notebooks/
-│   └── sales_analysis.ipynb
 │
 ├── images/
 │   ├── sales_trend.png
@@ -148,7 +145,6 @@ business-sales-analytics/
 │
 ├── README.md
 │
-└── requirements.txt
 ```
 
 ---
