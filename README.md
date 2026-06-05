@@ -163,5 +163,5 @@ Mkhaliphi Ndlovu
 
 Future Interns – Data Science & Analytics Internship
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/MkhaliphiNdlovu/FUTURE_DS_01
 LinkedIn: www.linkedin.com/in/mkhaliphi-ndlovu-96b653223
