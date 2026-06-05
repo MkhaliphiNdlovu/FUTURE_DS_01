@@ -142,6 +142,7 @@ FUTURE_DS_01/
 │   ├── top_10_products.png
 │   ├── profit_by_category.png
 │   ├── profitable_products.png
+│   ├── sales_by_category.png
 │   ├── sales_by_region.png
 │   └── sales_vs_profit.png
 │
