@@ -151,24 +151,6 @@ FUTURE_DS_01/
 └── requirements.txt
 ```
 
----
-
-## Sample Visualizations
-
-### Sales Trend
-(Add screenshot here)
-
-### Top Products
-(Add screenshot here)
-
-### Category Analysis
-(Add screenshot here)
-
-### Regional Performance
-(Add screenshot here)
-
----
-
 ## Results
 
 The project demonstrates how business sales data can be transformed into actionable insights through data cleaning, exploratory analysis, visualization, and business storytelling.
