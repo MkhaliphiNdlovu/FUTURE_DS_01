@@ -46,7 +46,6 @@ Total Records: 300
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 - GitHub
 
 ---
@@ -134,11 +133,9 @@ Examined the relationship between sales and profit.
 ```text
 FUTURE_DS_01/
 │
-├── data/
-│   └── sales_dataset.csv
+├── sales_dataset.csv
 │
-├── src/
-│   └── business_sales.py
+├── business_sales.py
 │
 ├── images/
 │   ├── monthly_sales_revenue.png
@@ -149,8 +146,8 @@ FUTURE_DS_01/
 │   └── sales_vs_profit.png
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+│
+└── requirements.txt
 ```
 
 ---
@@ -184,4 +181,4 @@ Mkhaliphi Ndlovu
 Future Interns – Data Science & Analytics Internship
 
 GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/mkhaliphi-ndlovu-96b653223
