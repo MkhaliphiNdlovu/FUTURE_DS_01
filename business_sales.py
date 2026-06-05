@@ -16,9 +16,6 @@ df.isnull().sum()
 df = df.drop_duplicates()
 
 # Convert date columns to datetime format
-#df['Order Date'] = pd.to_datetime(df['Order Date'])
-#df['Ship Date'] = pd.to_datetime(df['Ship Date'])
-
 df['Order Date'] = pd.to_datetime(df['Order Date'])
 df['Ship Date'] = pd.to_datetime(df['Ship Date'])
 
